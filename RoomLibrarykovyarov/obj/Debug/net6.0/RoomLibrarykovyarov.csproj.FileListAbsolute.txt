@@ -1,0 +1,12 @@
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.AssemblyInfo.cs
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\RoomLibrarykovyarov\bin\Debug\net6.0\RoomLibrarykovyarov.deps.json
+C:\Users\student\Downloads\RoomLibrarykovyarov\bin\Debug\net6.0\RoomLibrarykovyarov.dll
+C:\Users\student\Downloads\RoomLibrarykovyarov\bin\Debug\net6.0\RoomLibrarykovyarov.pdb
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.dll
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\refint\RoomLibrarykovyarov.dll
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\RoomLibrarykovyarov.pdb
+C:\Users\student\Downloads\RoomLibrarykovyarov\obj\Debug\net6.0\ref\RoomLibrarykovyarov.dll
